@@ -1,0 +1,9 @@
+spacy
+sentence-transformers
+transformers
+torch
+dateparser
+networkx
+pyvis
+scikit-learn
+numpy

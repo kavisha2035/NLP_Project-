@@ -1,0 +1,43 @@
+[
+  {
+    "src": "A",
+    "name": "US government",
+    "pub": "1964-08-08",
+    "sents": [
+      "On August 2, 1964, three North Vietnamese torpedo boats attacked the destroyer USS Maddox while it patrolled in international waters.",
+      "The Maddox returned fire, and aircraft from the carrier USS Ticonderoga joined the fight.",
+      "On August 4, 1964, North Vietnamese boats attacked the Maddox and the destroyer USS Turner Joy a second time.",
+      "On August 5, 1964, American aircraft bombed North Vietnamese naval bases in retaliation.",
+      "American officials said two North Vietnamese torpedo boats were sunk in the raids.",
+      "Congress passed the Gulf of Tonkin Resolution on August 7, 1964.",
+      "Johnson said the United States sought no wider war."
+    ]
+  },
+  {
+    "src": "B",
+    "name": "North Vietnam",
+    "pub": "1964-08-09",
+    "sents": [
+      "On August 2, 1964, the American destroyer Maddox entered North Vietnamese waters and was engaged by two patrol boats.",
+      "Aircraft from the carrier Ticonderoga then attacked the patrol boats.",
+      "Hanoi insisted that no second attack took place on August 4, 1964.",
+      "On August 5, 1964, American planes bombed naval bases and an oil depot in the north.",
+      "Hanoi said eight of its boats were damaged or sunk in the raids.",
+      "On August 7, 1964, the American Congress adopted the Gulf of Tonkin Resolution.",
+      "Hanoi protested the raids as an act of war."
+    ]
+  },
+  {
+    "src": "C",
+    "name": "Retrospective analysis",
+    "pub": "2005-12-01",
+    "sents": [
+      "On August 2, 1964, the Maddox exchanged fire with three torpedo boats after they approached the ship.",
+      "Aircraft from the Ticonderoga also attacked the boats.",
+      "On August 4, 1964, crews reported a second attack, but later analysis found no evidence that it occurred.",
+      "Two days later, American aircraft struck North Vietnamese naval bases.",
+      "On August 7, 1964, Congress passed the Gulf of Tonkin Resolution with two dissenting votes.",
+      "Historians later argued that the resolution gave Johnson broad power to expand the war."
+    ]
+  }
+]
